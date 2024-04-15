@@ -48,7 +48,7 @@ PUT http://localhost:8081/api/books/{id}
 
     Обязательные параметры: id
 ```
-DELETE http://localhost:8081/api/books/{id}}
+DELETE http://localhost:8081/api/books/{id}
 ```
 * **Найти книгу по названию и автору**
 
